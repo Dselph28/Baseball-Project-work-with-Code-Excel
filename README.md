@@ -1,0 +1,2 @@
+# Evaluating-First-Round-Pitchers-vs.-Position-Players-with-Prospects
+This is a data projection from excel about some former prospects and their stats and data as well as some new prospects and how they will perform in the future. I calculated the Minor League WAR and future WAR of these former and current prospects using resources like mlb.com, Fangraphs, and Baseball Referrence. First Project so a Work in Progress!
